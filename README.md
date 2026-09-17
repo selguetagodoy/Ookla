@@ -59,5 +59,7 @@ Este repositorio es un proyecto independiente de análisis. **No está afiliado 
 
 ## Autor
 
-**Sebastián Elgueta Godoy**  
-Sociólogo. Análisis de datos, políticas públicas e infraestructura digital.
+**[Sebastián Elgueta Godoy](https://github.com/selguetagodoy)**  
+Sociólogo. Análisis de datos, políticas públicas, telecomunicaciones, conectividad e infraestructura digital.
+
+Perfil profesional: [LinkedIn](https://cl.linkedin.com/in/sebastian-elgueta-godoy) · [Coordenadas Públicas](https://www.coordenadaspublicas.cl/nosotros/)
