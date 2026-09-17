@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Si utiliza este repositorio, cite el proyecto y las fuentes originales documentadas."
+title: "Velocidades de Internet — Chile, Colombia y comparadores internacionales"
+type: dataset
+authors:
+  - family-names: "Elgueta Godoy"
+    given-names: "Sebastián"
+repository-code: "https://github.com/selguetagodoy/Ookla"
+url: "https://github.com/selguetagodoy/Ookla"
+date-released: 2026-09-17
+abstract: >-
+  Repositorio de Sebastián Elgueta Godoy para análisis reproducible de velocidades de Internet fija y móvil,
+  conectividad y desempeño de redes en Chile, Colombia y comparadores internacionales mediante evidencia pública.
+keywords:
+  - Sebastián Elgueta Godoy
+  - Internet speed
+  - broadband
+  - telecommunications
+  - connectivity
+  - Chile
+  - Colombia
+  - Ookla
+  - Akamai
+  - digital infrastructure
+  - public policy
