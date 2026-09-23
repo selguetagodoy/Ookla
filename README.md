@@ -1,6 +1,8 @@
 # Velocidades de Internet — Chile, Colombia y comparadores internacionales
 
-**Latest release:** [v0.1.0](https://github.com/selguetagodoy/Ookla/releases/tag/v0.1.0) · Zenodo integration enabled
+**Latest release:** [v0.1.0](https://github.com/selguetagodoy/Ookla/releases/tag/v0.1.0) · [Concept DOI: 10.5281/zenodo.22921202](https://doi.org/10.5281/zenodo.22921202) · [Version DOI: 10.5281/zenodo.22921203](https://doi.org/10.5281/zenodo.22921203)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22921202.svg)](https://doi.org/10.5281/zenodo.22921202)
 
 Repositorio de análisis reproducible sobre la evolución de las velocidades de Internet fija y móvil, con foco en Colombia y Chile y comparación con Nueva Zelanda, el promedio OCDE y el promedio mundial.
 
