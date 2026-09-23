@@ -63,7 +63,7 @@ Este repositorio es un proyecto independiente de análisis. **No está afiliado 
 
 ## Autor
 
-**[Sebastián Elgueta Godoy](https://selguetagodoy.github.io/latin-america-digital-infrastructure/sebastian-elgueta-godoy.html)**  
+**[Sebastián Elgueta Godoy](https://selguetagodoy.github.io/)**  
 Sociólogo. Análisis de datos, políticas públicas, telecomunicaciones, conectividad e infraestructura digital.
 
-Perfiles: [GitHub](https://github.com/selguetagodoy) · [LinkedIn](https://cl.linkedin.com/in/sebastian-elgueta-godoy) · [Coordenadas Públicas](https://www.coordenadaspublicas.cl/nosotros/)
+Perfiles: [GitHub](https://github.com/selguetagodoy) · [LinkedIn](https://cl.linkedin.com/in/sebastian-elgueta-godoy) · [Substack](https://substack.com/@sebastianelguetagodoy) · [Coordenadas Públicas](https://www.coordenadaspublicas.cl/nosotros/)
