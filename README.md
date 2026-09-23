@@ -1,5 +1,7 @@
 # Velocidades de Internet — Chile, Colombia y comparadores internacionales
 
+**Latest release:** [v0.1.0](https://github.com/selguetagodoy/Ookla/releases/tag/v0.1.0) · Zenodo integration enabled
+
 Repositorio de análisis reproducible sobre la evolución de las velocidades de Internet fija y móvil, con foco en Colombia y Chile y comparación con Nueva Zelanda, el promedio OCDE y el promedio mundial.
 
 ## Alcance
