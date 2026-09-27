@@ -3,6 +3,7 @@
 **Latest release:** [v0.1.0](https://github.com/selguetagodoy/Ookla/releases/tag/v0.1.0) · [Concept DOI: 10.5281/zenodo.22921202](https://doi.org/10.5281/zenodo.22921202) · [Version DOI: 10.5281/zenodo.22921203](https://doi.org/10.5281/zenodo.22921203)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22921202.svg)](https://doi.org/10.5281/zenodo.22921202)
+[![Source URL Liveness](https://github.com/selguetagodoy/Ookla/actions/workflows/source-urls.yml/badge.svg)](https://github.com/selguetagodoy/Ookla/actions/workflows/source-urls.yml)
 
 **Thematic analysis:** [Telecomunicaciones en Chile: conectividad y regulación](https://selguetagodoy.github.io/telecomunicaciones.html)
 
@@ -62,6 +63,12 @@ El script lee la base anual y genera una tabla resumen con los últimos valores 
 La documentación de fuentes y las principales decisiones metodológicas están en `docs/`. Ookla publica sus datos abiertos de performance en tiles trimestrales y señala que la cobertura parte en Q1 2019.
 
 Este repositorio es un proyecto independiente de análisis. **No está afiliado ni respaldado por Ookla ni Akamai.** Los nombres y marcas pertenecen a sus respectivos titulares.
+
+## Trazabilidad y control de fuentes
+
+La jerarquía de evidencia está definida en [SOURCE_OF_TRUTH.md](SOURCE_OF_TRUTH.md) y el ledger canónico en [sources.csv](sources.csv). Allí se separan Ookla Open Data, Speedtest Global Index y los informes históricos de Akamai, evitando tratarlos como una sola fuente o una serie metodológicamente continua.
+
+GitHub Actions revisa semanalmente la disponibilidad de las URLs registradas. Un bloqueo 4xx se reporta como advertencia; un error persistente de red o servidor obliga a revisar la fuente antes de una nueva versión.
 
 ## Autor
 
