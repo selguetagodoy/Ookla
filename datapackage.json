@@ -21,13 +21,17 @@
       "name": "annual-comparison-2008-2026",
       "path": "data/comparacion_anual_2008_2026.csv",
       "format": "csv",
-      "mediatype": "text/csv"
+      "mediatype": "text/csv",
+      "bytes": 2190,
+      "git_blob_sha": "07ba806f825edab65c873530eec90620c637d281"
     },
     {
       "name": "sources",
       "path": "sources.csv",
       "format": "csv",
-      "mediatype": "text/csv"
+      "mediatype": "text/csv",
+      "bytes": 838,
+      "git_blob_sha": "dee2f8810f965a0dc3cfc818ab5017869b22f99d"
     }
   ]
 }
