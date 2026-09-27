@@ -80,3 +80,10 @@ GitHub Actions revisa semanalmente la disponibilidad de las URLs registradas. Un
 Sociólogo. Análisis de datos, políticas públicas, telecomunicaciones, conectividad e infraestructura digital.
 
 Perfiles: [GitHub](https://github.com/selguetagodoy) · [LinkedIn](https://cl.linkedin.com/in/sebastian-elgueta-godoy) · [Substack](https://substack.com/@sebastianelguetagodoy) · [Coordenadas Públicas](https://www.coordenadaspublicas.cl/nosotros/)
+
+## Investigación relacionada
+
+- [Chile Digital Inclusion](https://selguetagodoy.github.io/dataset-chile-digital-inclusion.html) — conectividad e inclusión digital con cobertura comunal.
+- [Atlas de la Desconexión Digital de Chile](https://selguetagodoy.github.io/atlas-desconexion-digital-chile.html) — lectura territorial de la brecha digital.
+- [Latin America Digital Infrastructure](https://selguetagodoy.github.io/dataset-latin-america-digital-infrastructure.html) — conectividad e infraestructura digital comparada en América Latina.
+
