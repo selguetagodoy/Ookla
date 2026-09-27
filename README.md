@@ -5,6 +5,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22921202.svg)](https://doi.org/10.5281/zenodo.22921202)
 [![Source URL Liveness](https://github.com/selguetagodoy/Ookla/actions/workflows/source-urls.yml/badge.svg)](https://github.com/selguetagodoy/Ookla/actions/workflows/source-urls.yml)
 
+**Public dataset landing page:** https://selguetagodoy.github.io/dataset-velocidades-internet.html
+
 **Thematic analysis:** [Telecomunicaciones en Chile: conectividad y regulación](https://selguetagodoy.github.io/telecomunicaciones.html)
 
 Repositorio de análisis reproducible sobre la evolución de las velocidades de Internet fija y móvil, con foco en Colombia y Chile y comparación con Nueva Zelanda, el promedio OCDE y el promedio mundial.
