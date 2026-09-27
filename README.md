@@ -81,6 +81,14 @@ Sociólogo. Análisis de datos, políticas públicas, telecomunicaciones, conect
 
 Perfiles: [GitHub](https://github.com/selguetagodoy) · [LinkedIn](https://cl.linkedin.com/in/sebastian-elgueta-godoy) · [Substack](https://substack.com/@sebastianelguetagodoy) · [Coordenadas Públicas](https://www.coordenadaspublicas.cl/nosotros/)
 
+
+## Citation and metadata
+
+- [CITATION.cff](CITATION.cff) — GitHub/academic citation metadata
+- [CITATION.bib](CITATION.bib) — BibTeX citation
+- [codemeta.json](codemeta.json) — machine-readable research metadata
+- [NOTICE.md](NOTICE.md) — authorship and third-party reuse boundaries
+
 ## Investigación relacionada
 
 - [Chile Digital Inclusion](https://selguetagodoy.github.io/dataset-chile-digital-inclusion.html) — conectividad e inclusión digital con cobertura comunal.
