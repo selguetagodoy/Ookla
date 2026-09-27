@@ -1,0 +1,33 @@
+{
+  "profile": "data-package",
+  "name": "internet-speeds-chile-colombia-comparators",
+  "title": "Velocidades de Internet — Chile, Colombia y comparadores internacionales",
+  "description": "Longitudinal public analytical package for fixed and mobile Internet speeds, preserving Akamai and Ookla methodological breaks.",
+  "version": "0.1.0",
+  "homepage": "https://selguetagodoy.github.io/dataset-velocidades-internet.html",
+  "contributors": [
+    {
+      "title": "Sebastián Elgueta Godoy",
+      "role": "author",
+      "path": "https://selguetagodoy.github.io/"
+    }
+  ],
+  "citation": {
+    "concept_doi": "https://doi.org/10.5281/zenodo.22921202",
+    "version_doi": "https://doi.org/10.5281/zenodo.22921203"
+  },
+  "resources": [
+    {
+      "name": "annual-comparison-2008-2026",
+      "path": "data/comparacion_anual_2008_2026.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "sources",
+      "path": "sources.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    }
+  ]
+}
