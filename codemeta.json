@@ -1,0 +1,45 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "Dataset",
+  "name": "Velocidades de Internet — Chile, Colombia y comparadores internacionales",
+  "description": "Repositorio de análisis reproducible sobre velocidades de Internet fija y móvil entre 2008 y 2026, con foco en Chile y Colombia y separación explícita de las familias metodológicas Akamai y Ookla.",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Sebastián",
+      "familyName": "Elgueta Godoy",
+      "url": "https://selguetagodoy.github.io/"
+    }
+  ],
+  "creator": [
+    {
+      "@type": "Person",
+      "givenName": "Sebastián",
+      "familyName": "Elgueta Godoy",
+      "url": "https://selguetagodoy.github.io/"
+    }
+  ],
+  "datePublished": "2026",
+  "version": "0.1.0",
+  "identifier": "https://doi.org/10.5281/zenodo.22921203",
+  "url": "https://selguetagodoy.github.io/dataset-velocidades-internet.html",
+  "codeRepository": "https://github.com/selguetagodoy/Ookla",
+  "relatedLink": [
+    "https://selguetagodoy.github.io/telecomunicaciones.html",
+    "https://selguetagodoy.github.io/dataset-chile-digital-inclusion.html",
+    "https://doi.org/10.5281/zenodo.22921203"
+  ],
+  "keywords": [
+    "Internet speed",
+    "broadband",
+    "Chile",
+    "Colombia",
+    "Ookla",
+    "Akamai",
+    "telecommunications",
+    "connectivity",
+    "network performance",
+    "digital infrastructure"
+  ],
+  "inLanguage": "es"
+}
