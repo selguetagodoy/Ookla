@@ -1,0 +1,143 @@
+{
+  "@context": "https://w3id.org/ro/crate/1.2/context",
+  "@graph": [
+    {
+      "@id": "ro-crate-metadata.json",
+      "@type": "CreativeWork",
+      "about": {
+        "@id": "./"
+      },
+      "conformsTo": {
+        "@id": "https://w3id.org/ro/crate/1.2"
+      }
+    },
+    {
+      "@id": "./",
+      "@type": "Dataset",
+      "name": "Velocidades de Internet — Chile, Colombia y comparadores internacionales",
+      "description": "Longitudinal analytical dataset on fixed and mobile Internet speeds from 2008 to 2026, preserving the methodological separation between Akamai and Ookla.",
+      "datePublished": "2026-09-23",
+      "version": "0.1.0",
+      "identifier": "https://doi.org/10.5281/zenodo.22921203",
+      "url": "https://selguetagodoy.github.io/dataset-velocidades-internet.html",
+      "creator": {
+        "@id": "https://selguetagodoy.github.io/#person"
+      },
+      "sameAs": [
+        "https://selguetagodoy.github.io/dataset-velocidades-internet.html",
+        "https://github.com/selguetagodoy/Ookla",
+        "https://doi.org/10.5281/zenodo.22921203",
+        "https://doi.org/10.5281/zenodo.22921202"
+      ],
+      "hasPart": [
+        {
+          "@id": "README.md"
+        },
+        {
+          "@id": "SOURCE_OF_TRUTH.md"
+        },
+        {
+          "@id": "CITATION.cff"
+        },
+        {
+          "@id": "CITATION.bib"
+        },
+        {
+          "@id": "codemeta.json"
+        },
+        {
+          "@id": "datapackage.json"
+        },
+        {
+          "@id": "NOTICE.md"
+        },
+        {
+          "@id": "CHANGELOG.md"
+        },
+        {
+          "@id": "CONTRIBUTING.md"
+        },
+        {
+          "@id": "data/comparacion_anual_2008_2026.csv"
+        },
+        {
+          "@id": "sources.csv"
+        }
+      ]
+    },
+    {
+      "@id": "https://selguetagodoy.github.io/#person",
+      "@type": "Person",
+      "name": "Sebastián Elgueta Godoy",
+      "url": "https://selguetagodoy.github.io/"
+    },
+    {
+      "@id": "README.md",
+      "@type": "File",
+      "name": "README",
+      "encodingFormat": "text/markdown"
+    },
+    {
+      "@id": "SOURCE_OF_TRUTH.md",
+      "@type": "File",
+      "name": "Source of Truth",
+      "encodingFormat": "text/markdown"
+    },
+    {
+      "@id": "CITATION.cff",
+      "@type": "File",
+      "name": "Citation metadata (CFF)",
+      "encodingFormat": "text/yaml"
+    },
+    {
+      "@id": "CITATION.bib",
+      "@type": "File",
+      "name": "BibTeX citation",
+      "encodingFormat": "application/x-bibtex"
+    },
+    {
+      "@id": "codemeta.json",
+      "@type": "File",
+      "name": "CodeMeta metadata",
+      "encodingFormat": "application/json"
+    },
+    {
+      "@id": "datapackage.json",
+      "@type": "File",
+      "name": "Frictionless Data Package",
+      "encodingFormat": "application/json"
+    },
+    {
+      "@id": "NOTICE.md",
+      "@type": "File",
+      "name": "Authorship and reuse notice",
+      "encodingFormat": "text/markdown"
+    },
+    {
+      "@id": "CHANGELOG.md",
+      "@type": "File",
+      "name": "Version history",
+      "encodingFormat": "text/markdown"
+    },
+    {
+      "@id": "CONTRIBUTING.md",
+      "@type": "File",
+      "name": "Contribution policy",
+      "encodingFormat": "text/markdown"
+    },
+    {
+      "@id": "data/comparacion_anual_2008_2026.csv",
+      "@type": "File",
+      "name": "annual-comparison-2008-2026",
+      "encodingFormat": "text/csv",
+      "contentSize": "2190 B"
+    },
+    {
+      "@id": "sources.csv",
+      "@type": "File",
+      "name": "sources",
+      "encodingFormat": "text/csv",
+      "contentSize": "838 B"
+    }
+  ]
+}
