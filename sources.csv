@@ -1,0 +1,4 @@
+source_id,publisher,title,url,use_in_dataset,last_checked,terms_note
+OOKLA-OPEN,Ookla,Speedtest by Ookla Global Fixed and Mobile Network Performance Maps,https://github.com/teamookla/ookla-open-data,Open-data tile methodology and quarterly network-performance evidence,2026-09-27,"Source dataset states CC BY-NC-SA 4.0; preserve source attribution and terms"
+OOKLA-INDEX,Ookla,Speedtest Global Index,https://www.speedtest.net/global-index,Published country and global index observations where explicitly used,2026-09-27,"Do not mix automatically with aggregates built from open-data tiles"
+AKAMAI-SOTI,Akamai,State of the Internet — Connectivity reports,https://content.akamai.com/PG1183-StateoftheInternet.html,Historical pre-Ookla connectivity observations,2026-09-27,"Separate methodological family; source terms remain with Akamai"
