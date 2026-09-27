@@ -6,6 +6,8 @@
 
 **Latest release:** [v0.1.0](https://github.com/selguetagodoy/Ookla/releases/tag/v0.1.0) · [Concept DOI: 10.5281/zenodo.22921202](https://doi.org/10.5281/zenodo.22921202) · [Version DOI: 10.5281/zenodo.22921203](https://doi.org/10.5281/zenodo.22921203)
 
+**Fecha del snapshot citable:** 2026-09-23
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22921202.svg)](https://doi.org/10.5281/zenodo.22921202)
 [![Source URL Liveness](https://github.com/selguetagodoy/Ookla/actions/workflows/source-urls.yml/badge.svg)](https://github.com/selguetagodoy/Ookla/actions/workflows/source-urls.yml)
 
