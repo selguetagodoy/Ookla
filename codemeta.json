@@ -19,12 +19,13 @@
       "url": "https://selguetagodoy.github.io/"
     }
   ],
-  "datePublished": "2026",
+  "datePublished": "2026-09-23",
   "version": "0.1.0",
   "identifier": "https://doi.org/10.5281/zenodo.22921203",
   "url": "https://selguetagodoy.github.io/dataset-velocidades-internet.html",
   "codeRepository": "https://github.com/selguetagodoy/Ookla",
   "relatedLink": [
+    "https://doi.org/10.5281/zenodo.22921202",
     "https://selguetagodoy.github.io/telecomunicaciones.html",
     "https://selguetagodoy.github.io/dataset-chile-digital-inclusion.html",
     "https://doi.org/10.5281/zenodo.22921203"
