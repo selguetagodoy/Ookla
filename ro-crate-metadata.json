@@ -62,6 +62,9 @@
         },
         {
           "@id": "sources.csv"
+        },
+        {
+          "@id": "CITATION.md"
         }
       ]
     },
@@ -138,6 +141,12 @@
       "name": "sources",
       "encodingFormat": "text/csv",
       "contentSize": "838 B"
+    },
+    {
+      "@id": "CITATION.md",
+      "@type": "File",
+      "name": "Human-readable citation guide",
+      "encodingFormat": "text/markdown"
     }
   ]
 }
